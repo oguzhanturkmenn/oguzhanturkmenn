@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Türkmen</h1>
 <h3 align="center">One who's improving himself for native android devolopment.</h3>
+<img align="right" alt="Coding" widht="400" src="https://www.hizliresim.com/92butvs"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhanturkmenn&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhanturkmenn" /> </p>
 
