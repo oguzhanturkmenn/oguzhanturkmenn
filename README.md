@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhanturkmenn&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhanturkmenn" /> </p>
 
-- 🔭 I’m currently working on [PlantShop](https://github.com/oguzhanturkmenn/PlantShop)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Kotlin**
 
