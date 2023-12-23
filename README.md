@@ -23,5 +23,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanturkmenn&" alt="oguzhanturkmenn" /></p>  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oguzhanturkmenn&theme=radical)
