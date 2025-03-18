@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at Gardrops 
 
-- 🌱 I’m currently improve myself **Kotlin** **Java**
-
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **ouzhanturkmenn@gmail.com**
